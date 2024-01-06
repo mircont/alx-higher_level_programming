@@ -1,4 +1,5 @@
-are the Rectangle class"""
+#!/usr/bin/python3
+"""declare the Rectangle class"""
 
 
 class Rectangle:
